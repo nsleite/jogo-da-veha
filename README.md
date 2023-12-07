@@ -7,4 +7,4 @@ Neste projeto a idéia era desenvolver um jogo velha, com os indicadores de quem
 
 ## Execução
 
-Para executar o código, basta baixar os três arquivos principais e digitar o caminho completo do arquivo HTML na barra de endereços do navegados
+Para executar o código, basta baixar os três arquivos principais e digitar o caminho completo do arquivo HTML na barra de endereços do navegador.
