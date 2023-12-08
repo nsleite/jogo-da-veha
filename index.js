@@ -80,6 +80,7 @@ restart.addEventListener('click', function(){
     actualPlayer(false);
     playing.textContent = 'Jogador:';
     winner.textContent = 'Vencedor:';
+    arr = ['','','','','','','','',''];
 });
 
 
